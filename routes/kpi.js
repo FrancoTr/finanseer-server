@@ -1,4 +1,5 @@
 import Express from "express";
+import KPI from "../models/KPI.js";
 
 const router = express.router();
 
